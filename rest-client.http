@@ -1,0 +1,15 @@
+@API_KEY = {{$dotenv API_KEY}}
+
+ ###
+ GET https://api.nasa.gov/neo/rest/v1/neo/browse
+    ?api_key={{API_KEY}}
+
+###
+GET http://www.neowsapp.com/rest/v1/neo/browse
+    ?page=0
+    &size=20
+    &api_key={{API_KEY}}
+
+// Max Size Request 20
+// Total Pages 1425
+// Total Elements 28,486
