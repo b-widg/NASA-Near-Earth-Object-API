@@ -6,4 +6,4 @@ NASA limits the requests to 1000 per hour and as of this writing it takes 1425 r
 
 [axios](https://www.npmjs.com/package/axios) <img src="https://axios-http.com//assets/favicon.ico" alt="axios logo" width=15> was used to make to requests to the API.
 
-The rest-client.rest file was used to try out the API and get feel of the data retutned.  It requites the [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client) <img src="https://humao.gallerycdn.vsassets.io/extensions/humao/rest-client/0.24.6/1638197435436/Microsoft.VisualStudio.Services.Icons.Default" alt="rest-client logo" width=15> VC Code estension to use.
+The rest-client.rest file was used to try out the API and get feel of the data retutned.  It requires the [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client) <img src="https://humao.gallerycdn.vsassets.io/extensions/humao/rest-client/0.24.6/1638197435436/Microsoft.VisualStudio.Services.Icons.Default" alt="rest-client logo" width=15> VC Code estension to use.
